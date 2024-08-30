@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dadmoo.github.io/sitemap/sitemap.noG.gz
