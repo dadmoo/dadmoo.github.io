@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dadmoo.csgad.com/GUZ/sitemap.xml.gz
